@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nxi:home|Door43 (nxi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nxi|d43-nxi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nxi/archive/master.zip|d43-nxi.zip]]
+
+**Recent Changes**
+{{changes>ns = nxi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nxi|Ethnologue data]]
+
